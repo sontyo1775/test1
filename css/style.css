@@ -4,7 +4,7 @@
 .col {
     height: 50px;
 }
-.test {
+#test {
     display: flex;
     justify-content: center;
 }
