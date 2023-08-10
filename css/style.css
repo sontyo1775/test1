@@ -4,3 +4,7 @@
 .col {
     height: 50px;
 }
+.test {
+    display: flex;
+    justify-content: center;
+}
